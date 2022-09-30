@@ -1,3 +1,5 @@
+
+
 const QuestionsData = [
     {
         question:"ข้อใดไม่ใช่ tag html",
@@ -8,11 +10,11 @@ const QuestionsData = [
         answer:"A"
     },
     {
-        question:"ข้อใดถุกต้องเกี่ยวกับ React",
-        A:"ทำงานฝั่ง Server",
+        question:"ข้อใดถูกต้องเกี่ยวกับ react",
+        A:"ทำงานผั่ง Server",
         B:"ใช้จัดการฐานข้อมูล",
         C:"เป็น JavaScript Library",
-        D:"ถุกหมด",
+        D:"ถูกทุกข้อ",
         answer:"C"
     },
     {
@@ -24,5 +26,4 @@ const QuestionsData = [
         answer:"D"
     }
 ]
-
-export default QuestionsData;
+export default QuestionsData
